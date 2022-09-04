@@ -1,4 +1,11 @@
-### My Hobbies:
-1. Playing Destiny 2
-2. Playing Valorant
-3. Competitive Programming
+### Programming Languages Learnt:
+1. Python
+2. Javascript
+3. HTML
+4. CSS
+5. C++
+
+### Hobbies:
+1. Competitive Programming
+2. Archery
+3. Gaming
