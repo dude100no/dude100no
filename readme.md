@@ -1,3 +1,6 @@
+# Koh June Wen (Aloysius)
+# Singapore Polytechnic | Diploma in Applied AI and Analytics
+
 ### Programming Languages Learnt:
 1. Python
 2. Javascript
